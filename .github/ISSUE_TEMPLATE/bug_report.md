@@ -1,21 +1,12 @@
 ---
-name: Bug report
-about: Relatar erro no sistema
-title: "[fix] "
+name: Bug Report
+about: Reporte um problema
+title: '[BUG] '
 labels: bug
-assignees: ""
 ---
 
-## Descrição do erro
-Explique o que está acontecendo.
+**Descrição**
+[Descreva o que precisa ser feito]
 
-## Como reproduzir
-1. Vá para...
-2. Clique em...
-3. Veja o erro...
-
-## Comportamento esperado
-O que deveria acontecer?
-
-## Logs ou prints
-Cole aqui se houver.
+**Referência / Contexto**
+[Links, prints ou referências externas]
